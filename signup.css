@@ -23,6 +23,11 @@ body {
     border-top-right-radius: 20px;
   }
   
+  h1 {
+    color: firebrick;
+
+  }
+
   nav a {
     color: #fff;
     text-decoration: none;
